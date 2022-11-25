@@ -1,0 +1,15 @@
+F:\C#\个人练习\Toothpick\Toothpick.CS\bin\Debug\net7.0\Toothpick.CS.exe
+F:\C#\个人练习\Toothpick\Toothpick.CS\bin\Debug\net7.0\Toothpick.CS.deps.json
+F:\C#\个人练习\Toothpick\Toothpick.CS\bin\Debug\net7.0\Toothpick.CS.runtimeconfig.json
+F:\C#\个人练习\Toothpick\Toothpick.CS\bin\Debug\net7.0\Toothpick.CS.dll
+F:\C#\个人练习\Toothpick\Toothpick.CS\bin\Debug\net7.0\Toothpick.CS.pdb
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.csproj.AssemblyReference.cache
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.AssemblyInfoInputs.cache
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.AssemblyInfo.cs
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.csproj.CoreCompileInputs.cache
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.dll
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\refint\Toothpick.CS.dll
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.pdb
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\Toothpick.CS.genruntimeconfig.cache
+F:\C#\个人练习\Toothpick\Toothpick.CS\obj\Debug\net7.0\ref\Toothpick.CS.dll

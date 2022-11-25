@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Toothpick.CS/1.0.0": {
+        "runtime": {
+          "Toothpick.CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toothpick.CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
