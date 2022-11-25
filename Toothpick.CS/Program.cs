@@ -22,7 +22,6 @@ while (!isEnd)
         Console.WriteLine(msg);
         row = Console.ReadLine();
     }
-    int beginCount = list[rowIndex - 1].Where(c => c == 1).Count();
     int times = 0;
     for (int i = 0; i < list[rowIndex - 1].Count; i++)
     {
